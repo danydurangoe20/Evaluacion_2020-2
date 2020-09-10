@@ -1,3 +1,5 @@
+#Actividad: convertir un entero a binario
+
 def mybin(x):
     print('__name__={}'.format(__name__))
     #entero a binario

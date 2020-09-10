@@ -1,3 +1,4 @@
+#Binario 32-bits a float
 import numpy as np
 
 #Para el codigo general debería pedir un b de la siguiente manera
